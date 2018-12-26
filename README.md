@@ -9,6 +9,15 @@ Use the following instructions to mine a block.<br>
 Open your wallet, and make sure your wallet is connected with a node. <br>
 Your wallet is connected when you see the icon in the lower right corner of your wallet.<br>
 The message “Syncing Headers (0,0%)” will disappear once you mine your first block.<br>
+Close your wallet and create the file dcentralcoin.conf in the folder “%APPDATA%\dcentralcoin\”.<br>
+ Paste the following text into dcentralcoin.conf and save the file.<br>
+ rpcuser=rpc_dcentralcoin<br>
+ rpcpassword=password<br>
+ rpcallowip=127.0.0.1<br>
+ rpcport=4887<br>
+ listen=1<br>
+ server=1<br>
+ addnode=node1.walletbuilders.com<br>
 Open your wallet.<br>
 Create a .bat file named mine.bat in the same folder where you extracted dcentralcoin-cli.exe and paste the following text into mine.bat.<br>
 @echo off<br>

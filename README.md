@@ -1,6 +1,6 @@
 # downloads
 
-Decentralbank.com and dcentralcoin:<br>
+Decentralbank.com and dcentralcoin (DCC):<br>
 Decentralization is the process of redistributing or dispersing functions, powers, people or things away from a central location or authority. By definition, it is to move power away from a central authority, like a bank or government. Decentralization means that no single organization or entity has absolute power over a certain aspect of society.<br>
 Dcentralbank has all the elements that are necessary to make a functional, decentralized banking system. With the rise of the internet, this is especially relevant. Be your own bank. A decentralized system doesn’t only bring the benefit of not having to trust a central bank to do the job, but you also get to avoid unnecessary fees. Because you are dealing with other people within the decentralized system, instead of going through a middleman. Dcentralcoin offers total payment confidentiality, maintaining a decentralised network using a public blockchain.<br>
 

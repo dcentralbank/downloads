@@ -23,7 +23,7 @@ Create a .bat file named mine.bat in the same folder where you extracted dcentra
 @echo off<br>
 set SCRIPT_PATH=%cd%<br>
 cd %SCRIPT_PATH%<br>
-echo Press [CTRL+C] to stop mining.<br>
+echo Press [CTRL+C] to stop mining.<br> 
 :begin<br>
  dcentralcoin-cli.exe generate 1<br>
 goto begin <br>

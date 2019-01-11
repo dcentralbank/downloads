@@ -62,12 +62,14 @@ Paste the following lines in examplecoin.conf.
 rpcuser=rpc_examplecoin
 rpcpassword=kuw05sqio7bcm8z96o7redv17xws1lw6xpd1qf33
 rpcallowip=127.0.0.1
+rpcport=4887
 #----
 listen=1
 server=1
 daemon=1
-port=9999
+port=4888
 maxconnections=64
+addnode-mn1.dcentralbank.com
 #----
 masternode=1
 masternodeprivkey=REPLACE_WITH_MASTERNODE_PRIVATE_KEY
@@ -101,7 +103,7 @@ MN1 136.144.171.201:9999 75eqvNfaEfkd3YTwQ3hMwyxL2BgNSrqHDgWc6jbUh4Gdtnro2Wo 06e
 
 MN1 - Alias for your masternode.
 136.144.171.201 - External IP of your VPS.
-9999 - P2P port.
+4888 - P2P port.
 75eqvNfaEfkd3YTwQ3hMwyxL2BgNSrqHDgWc6jbUh4Gdtnro2Wo - Masternode private key from the command “masternode genkey”.
 06e38868bb8f9958e34d5155437d009b72dff33fc28874c87fd42e51c0f74fdb - Transaction hash from the command “masternode outputs”.
 0 - Single digit from the command “masternode outputs”.

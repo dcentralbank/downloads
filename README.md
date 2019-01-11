@@ -17,7 +17,7 @@ Close your wallet and create the file dcentralcoin.conf in the folder “%APPDAT
  rpcport=4887<br>
  listen=1<br>
  server=1<br>
- addnode=136.144.171.201<br>
+ addnode=mn1.dcentralbank.com<br><br>
 Open your wallet.<br>
 Create a .bat file named mine.bat in the same folder where you extracted dcentralcoin-cli.exe and paste the following text into mine.bat.<br>
 @echo off<br>

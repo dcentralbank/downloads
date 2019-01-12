@@ -99,7 +99,7 @@ Example output
 Go to “Tools”. 
 Click “Open Masternode Configuration File”. 
 Modify the following line and paste it into notepad.
-MN1 136.144.171.201:9999 75eqvNfaEfkd3YTwQ3hMwyxL2BgNSrqHDgWc6jbUh4Gdtnro2Wo 06e38868bb8f9958e34d5155437d009b72dff33fc28874c87fd42e51c0f74fdb 0
+MN1 136.144.171.201:4888 75eqvNfaEfkd3YTwQ3hMwyxL2BgNSrqHDgWc6jbUh4Gdtnro2Wo 06e38868bb8f9958e34d5155437d009b72dff33fc28874c87fd42e51c0f74fdb 0
 
 MN1 - Alias for your masternode.
 136.144.171.201 - External IP of your VPS.

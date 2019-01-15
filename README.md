@@ -3,7 +3,28 @@
 Decentralbank.com and dcentralcoin (DCC):<br>
 Decentralization is the process of redistributing or dispersing functions, powers, people or things away from a central location or authority. By definition, it is to move power away from a central authority, like a bank or government. Decentralization means that no single organization or entity has absolute power over a certain aspect of society.<br>
 Dcentralbank has all the elements that are necessary to make a functional, decentralized banking system. With the rise of the internet, this is especially relevant. Be your own bank. A decentralized system doesn’t only bring the benefit of not having to trust a central bank to do the job, but you also get to avoid unnecessary fees. Because you are dealing with other people within the decentralized system, instead of going through a middleman. Dcentralcoin offers total payment confidentiality, maintaining a decentralised network using a public blockchain.<br>
-
+<br>
+Coin Specifics: <br>
+Algorithm X11<br>
+Block type Proof-of-Work<br>
+Coin name dcentralcoin<br>
+Coin abbreviation DCC<br>
+Address letter D<br>
+Address letter testnet T<br>
+Coin unit Coin<br>
+RPC port 4887<br>
+P2P port 4888<br>
+Block reward 50 coins<br>
+Block halving 2100000 blocks<br>
+Coin supply 210999999 coins<br>
+Masternode reward 50%<br>
+Masternode amount 1000 coins<br>
+Masternode confirmations 15<br>
+Coinbase maturity 10 blocks<br>
+Target spacing 5 minutes<br>
+Target timespan 10 minutes<br>
+Transaction confirmations 5 blocks<br>
+<br>
 Getting started<br>
 Use the following instructions to mine a block.<br>
 Open your wallet, and make sure your wallet is connected with a node. <br>

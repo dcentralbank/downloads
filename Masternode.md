@@ -58,23 +58,22 @@ mkdir $HOME/.examplecoin
 nano $HOME/.examplecoin/examplecoin.conf
 
 Paste the following lines in examplecoin.conf.
-#----
+
 rpcuser=rpc_examplecoin
 rpcpassword=kuw05sqio7bcm8z96o7redv17xws1lw6xpd1qf33
 rpcallowip=127.0.0.1
 rpcport=4887
-#----
 listen=1
 server=1
 daemon=1
 port=4888
 maxconnections=64
-addnode-mn1.dcentralbank.com
-#----
+addnode=mn1.dcentralbank.com
+addnode=mn2.decentralbank.com
 masternode=1
 masternodeprivkey=REPLACE_WITH_MASTERNODE_PRIVATE_KEY
 externalip=REPLACE_WITH_EXTERNAL_IP_OF_VPS
-#----
+
 
 Replace the text “REPLACE_WITH_MASTERNODE_PRIVATE_KEY” with the “masternode private key” that you created using the command “masternode genkey”. 
 

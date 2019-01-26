@@ -81,7 +81,7 @@ E.G. masternodeprivkey=75eqvNfaEfkd3YTwQ3hMwyxL2BgNSrqHDgWc6jbUh4Gdtnro2Wo
 Replace the text “REPLACE_WITH_EXTERNAL_IP_OF_VPS” with the external IP address of your VPS. 
 
 E.G. externalip=136.144.171.201
-Start your node with the following command.
+Start your node with the following command:
 examplecoind
 
 Setup the control wallet (2/2)
